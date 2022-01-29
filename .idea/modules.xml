@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Maze_Runner.iml" filepath="$PROJECT_DIR$/.idea/modules/Maze_Runner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Maze Runner/task/Maze_Runner.Maze_Runner-task.iml" filepath="$PROJECT_DIR$/.idea/modules/Maze Runner/task/Maze_Runner.Maze_Runner-task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Maze Runner/task/Maze_Runner.Maze_Runner-task.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Maze Runner/task/Maze_Runner.Maze_Runner-task.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Maze Runner/task/Maze_Runner.Maze_Runner-task.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Maze Runner/task/Maze_Runner.Maze_Runner-task.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Choose a correct invocation/Maze_Runner.Topics-Random-Choose_a_correct_invocation.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Choose a correct invocation/Maze_Runner.Topics-Random-Choose_a_correct_invocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Choose a correct invocation/Maze_Runner.Topics-Random-Choose_a_correct_invocation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Choose a correct invocation/Maze_Runner.Topics-Random-Choose_a_correct_invocation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Choose a correct invocation/Maze_Runner.Topics-Random-Choose_a_correct_invocation.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Choose a correct invocation/Maze_Runner.Topics-Random-Choose_a_correct_invocation.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Find the seed/Maze_Runner.Topics-Random-Find_the_seed.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Find the seed/Maze_Runner.Topics-Random-Find_the_seed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Find the seed/Maze_Runner.Topics-Random-Find_the_seed.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Find the seed/Maze_Runner.Topics-Random-Find_the_seed.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Find the seed/Maze_Runner.Topics-Random-Find_the_seed.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Find the seed/Maze_Runner.Topics-Random-Find_the_seed.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Gaussian random numbers/Maze_Runner.Topics-Random-Gaussian_random_numbers.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Gaussian random numbers/Maze_Runner.Topics-Random-Gaussian_random_numbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Gaussian random numbers/Maze_Runner.Topics-Random-Gaussian_random_numbers.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Gaussian random numbers/Maze_Runner.Topics-Random-Gaussian_random_numbers.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Gaussian random numbers/Maze_Runner.Topics-Random-Gaussian_random_numbers.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Gaussian random numbers/Maze_Runner.Topics-Random-Gaussian_random_numbers.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Impossible to generate/Maze_Runner.Topics-Random-Impossible_to_generate.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Impossible to generate/Maze_Runner.Topics-Random-Impossible_to_generate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Impossible to generate/Maze_Runner.Topics-Random-Impossible_to_generate.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Impossible to generate/Maze_Runner.Topics-Random-Impossible_to_generate.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Impossible to generate/Maze_Runner.Topics-Random-Impossible_to_generate.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Impossible to generate/Maze_Runner.Topics-Random-Impossible_to_generate.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Theory/Maze_Runner.Topics-Random-Theory.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Theory/Maze_Runner.Topics-Random-Theory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Theory/Maze_Runner.Topics-Random-Theory.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Theory/Maze_Runner.Topics-Random-Theory.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Theory/Maze_Runner.Topics-Random-Theory.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Theory/Maze_Runner.Topics-Random-Theory.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Which values can be generated/Maze_Runner.Topics-Random-Which_values_can_be_generated.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Which values can be generated/Maze_Runner.Topics-Random-Which_values_can_be_generated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Which values can be generated/Maze_Runner.Topics-Random-Which_values_can_be_generated.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Which values can be generated/Maze_Runner.Topics-Random-Which_values_can_be_generated.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Topics/Random/Which values can be generated/Maze_Runner.Topics-Random-Which_values_can_be_generated.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Topics/Random/Which values can be generated/Maze_Runner.Topics-Random-Which_values_can_be_generated.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Maze_Runner.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Maze_Runner.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Maze_Runner.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Maze_Runner.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Maze_Runner.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Maze_Runner.util.test.iml" />
+    </modules>
+  </component>
+</project>
